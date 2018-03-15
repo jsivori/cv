@@ -1,0 +1,71 @@
+<svg width="320" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Sass Resume Card Graphic</title>
+    <defs>
+        <linearGradient x1="107.186%" y1="92.919%" x2="24.688%" y2="11.504%" id="b">
+            <stop stop-color="#6F97F5" offset="0%"/>
+            <stop stop-color="#3C64C2" offset="100%"/>
+        </linearGradient>
+        <path id="a" d="M0 0h320v200H0z"/>
+        <rect id="e" x="69" y="-12" width="69.903" height="93.25" rx="2"/>
+        <filter y="-5.4%" height="115%" filterUnits="objectBoundingBox" id="d">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M138.676 49v65.41a2 2 0 0 1-2 2H47a2 2 0 0 1-2-2V49a2 2 0 0 1 2-2h89.676a2 2 0 0 1 2 2z" id="g"/>
+        <filter x="-7.5%" y="-7.2%" width="114.9%" height="120.2%" filterUnits="objectBoundingBox" id="f">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0.235294118 0 0 0 0 0.392156863 0 0 0 0 0.760784314 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <rect id="i" x="146" y="101" width="125" height="93" rx="2"/>
+        <filter x="-5.6%" y="-5.4%" width="111.2%" height="115.1%" filterUnits="objectBoundingBox" id="h">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0.294117647 0 0 0 0 0.207843137 0 0 0 0 0.937254902 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <rect id="k" x="111" y="54" width="69.903" height="93.25" rx="2"/>
+        <filter y="-5.4%" height="115%" filterUnits="objectBoundingBox" id="j">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M235.746 73v26.254a2 2 0 0 1-2 2H183a2 2 0 0 1-2-2V73a2 2 0 0 1 2-2h50.746a2 2 0 0 1 2 2z" id="m"/>
+        <filter x="-12.8%" y="-16.5%" width="125.6%" height="146.3%" filterUnits="objectBoundingBox" id="l">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0.235294118 0 0 0 0 0.392156863 0 0 0 0 0.760784314 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" xlink:href="#a"/>
+        <rect fill="#3C64C2" opacity=".638" mask="url(#c)" x="111" y="-12" width="125" height="93" rx=".4"/>
+        <g opacity=".826" mask="url(#c)">
+            <use fill="#000" filter="url(#d)" xlink:href="#e"/>
+            <use fill="#4C7EF3" xlink:href="#e"/>
+        </g>
+        <g mask="url(#c)">
+            <use fill="#000" filter="url(#f)" xlink:href="#g"/>
+            <use fill="#3C64C2" xlink:href="#g"/>
+        </g>
+        <g mask="url(#c)">
+            <use fill="#000" filter="url(#h)" xlink:href="#i"/>
+            <use fill="#4877E7" xlink:href="#i"/>
+        </g>
+        <g mask="url(#c)">
+            <use fill="#000" filter="url(#j)" xlink:href="#k"/>
+            <use fill="#4C7EF3" xlink:href="#k"/>
+        </g>
+        <g opacity=".844" mask="url(#c)">
+            <use fill="#000" filter="url(#l)" xlink:href="#m"/>
+            <use fill="#6F97F5" xlink:href="#m"/>
+        </g>
+        <g fill="#FFF" mask="url(#c)">
+            <path d="M208.636 83.772V79.24l-18.42 10.614 1.967 3.4 10.551-6.08V99.92l-23.003 13.254v6.8l28.905-16.655v-1.674l-.001-.002V83.774zM150.302 118.152V97.548l3.054-1.76 1.682 2.907v16.745l-4.736 2.712zm7.776-25.979l-1.056-1.826-.003.001-.52-.899-6.197 3.571-.003.001-5.899 3.398V126.055l10.638-6.09v2.289l5.9-3.396V90.531l-2.86 1.642z"/>
+            <path d="M134.038 127.558l-14.769 8.506v-20.62l14.769-8.506v20.62zm36.096-61.877v-9.67h-4.462V56h-17.658v.013-.002l-35.8 20.625.009.014h-.005v7.005l-.004-.003-.001 6.8 21.286 12.263-20.136 11.597v6.791l.005-.003v9.335l-.005.003V144l26.576-15.307V103.54l2.31-1.331v-4.535l-2.85 1.643-21.28-12.262v-7.02l31.494-18.146h14.62v7.192L144.4 80.507v6.799l25.745-14.833v-6.799l-.011.007zM169.338 91.254v-9.196l-5.901 3.406v7.33l8.756 15.113-4.258 2.453-2.53-4.375v5.807l-.01.004v4.495l13.848-7.98zM193.542 100.074l-9.905-17.087V73.82l-5.9 3.398v7.328l8.744 15.1-4.26 2.453-2.527-4.37v10.323z"/>
+        </g>
+    </g>
+</svg>

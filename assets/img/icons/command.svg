@@ -1,0 +1,101 @@
+<svg width="320" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Command Line Interface Resume Card Graphic</title>
+    <defs>
+        <linearGradient x1="102.811%" y1="93.361%" x2="28.711%" y2="15.621%" id="b">
+            <stop stop-color="#8783AD" offset="0%"/>
+            <stop stop-color="#544F7B" offset="100%"/>
+        </linearGradient>
+        <path id="a" d="M0 0h320v200H0z"/>
+        <path d="M42.165 62.149V14.99H16.931v72.38h.035v.012h72.38V62.15h-47.18z" id="e"/>
+        <filter x="-6.9%" y="-12.4%" width="119.3%" height="119.3%" filterUnits="objectBoundingBox" id="d">
+            <feOffset dx="2" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M42.165 62.149V14.99H16.931v72.38h.035v.012h72.38V62.15h-47.18z" id="g"/>
+        <filter x="-6.9%" y="-12.4%" width="119.3%" height="119.3%" filterUnits="objectBoundingBox" id="f">
+            <feOffset dx="2" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M42.165 62.149V14.99H16.931v72.38h.035v.012h72.38V62.15h-47.18z" id="i"/>
+        <filter x="-6.9%" y="-12.4%" width="119.3%" height="119.3%" filterUnits="objectBoundingBox" id="h">
+            <feOffset dx="2" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M42.165 62.149V14.99H16.931v72.38h.035v.012h72.38V62.15h-47.18z" id="k"/>
+        <filter x="-6.9%" y="-12.4%" width="119.3%" height="119.3%" filterUnits="objectBoundingBox" id="j">
+            <feOffset dx="2" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M42.165 62.149V14.99H16.931v72.38h.035v.012h72.38V62.15h-47.18z" id="m"/>
+        <filter x="-6.9%" y="-12.4%" width="119.3%" height="119.3%" filterUnits="objectBoundingBox" id="l">
+            <feOffset dx="2" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M42.165 62.149V14.99H16.931v72.38h.035v.012h72.38V62.15h-47.18z" id="o"/>
+        <filter x="-6.9%" y="-12.4%" width="119.3%" height="119.3%" filterUnits="objectBoundingBox" id="n">
+            <feOffset dx="2" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" xlink:href="#a"/>
+        <g opacity=".797" mask="url(#c)">
+            <path d="M89.69 184.21l33.379-33.38-17.843-17.842-51.18 51.18.495.496-.041.042 51.18 51.18 17.843-17.843L89.69 184.21z" fill="#544F7B"/>
+            <g transform="scale(-1 1) rotate(45 -146.89 -92.656)">
+                <use fill="#000" filter="url(#d)" xlink:href="#e"/>
+                <use fill="#8782AE" xlink:href="#e"/>
+            </g>
+            <g>
+                <path d="M70.31 133.79l-33.379 33.38 17.843 17.842 51.18-51.18-.495-.496.041-.042-51.18-51.18-17.843 17.843L70.31 133.79z" fill="#69639A"/>
+                <g transform="scale(1 -1) rotate(45 316.97 -58.519)">
+                    <use fill="#000" filter="url(#f)" xlink:href="#g"/>
+                    <use fill="#8782AE" xlink:href="#g"/>
+                </g>
+            </g>
+        </g>
+        <g opacity=".797" mask="url(#c)">
+            <path d="M176.69 100.21l33.379-33.38-17.843-17.842-51.18 51.18.495.496-.041.042 51.18 51.18 17.843-17.843-33.833-33.833z" fill="#544F7B"/>
+            <g transform="scale(-1 1) rotate(45 -88.993 -239.674)">
+                <use fill="#000" filter="url(#h)" xlink:href="#i"/>
+                <use fill="#8782AE" xlink:href="#i"/>
+            </g>
+            <g>
+                <path d="M157.31 49.79l-33.379 33.38 17.843 17.842 51.18-51.18-.495-.496.041-.042-51.18-51.18-17.843 17.843L157.31 49.79z" fill="#69639A"/>
+                <g transform="scale(1 -1) rotate(45 259.073 88.5)">
+                    <use fill="#000" filter="url(#j)" xlink:href="#k"/>
+                    <use fill="#8782AE" xlink:href="#k"/>
+                </g>
+            </g>
+        </g>
+        <g opacity=".797" mask="url(#c)">
+            <path d="M72.69 66.21l33.379-33.38-17.843-17.842-51.18 51.18.495.496-.041.042 51.18 51.18 17.843-17.843L72.69 66.21z" fill="#544F7B"/>
+            <g transform="scale(-1 1) rotate(45 4.049 -131.135)">
+                <use fill="#000" filter="url(#l)" xlink:href="#m"/>
+                <use fill="#8782AE" xlink:href="#m"/>
+            </g>
+            <g>
+                <path d="M53.31 15.79L19.931 49.17l17.843 17.842 51.18-51.18-.495-.496.041-.042-51.18-51.18-17.843 17.843L53.31 15.79z" fill="#69639A"/>
+                <g transform="scale(1 -1) rotate(45 166.032 -20.04)">
+                    <use fill="#000" filter="url(#n)" xlink:href="#o"/>
+                    <use fill="#8782AE" xlink:href="#o"/>
+                </g>
+            </g>
+        </g>
+        <g mask="url(#c)">
+            <path fill="#FFF" style="mix-blend-mode:overlay" opacity=".42" d="M111 60h96.18v78.202H111z"/>
+            <g fill="#FFF">
+                <path d="M116.578 71.433h86.231v-5.267h-86.23v5.267zm0 63.2h86.231V76.699h-86.23v57.934zm-5.28-73.734v79h96.79V60.899h-96.79z"/>
+                <path d="M125.377 96.888h5.28V86.355h-5.28z"/>
+            </g>
+        </g>
+    </g>
+</svg>
